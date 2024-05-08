@@ -2,4 +2,5 @@
 
 - 🌱 I’m learning Python at the moment
 - 🐱 I have 2 cats to help me catch bugs in my code
-- 💼 Here's my linkedin https://www.linkedin.com/in/chinchin-/
+- 💼 Linkedin https://www.linkedin.com/in/chinchin-/
+- 🖥️ Personal Website: https://chinchinooo.github.io/landing-page/
